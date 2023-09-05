@@ -11,5 +11,5 @@ findings, and the potential implications for the garment manufacturing sector.
 - Recommendations for enhancing worker productivity based on model outcomes.
 - Tech Stack: PySpark, Classification Models
 
-**Data**
+**Data:**
 https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees
